@@ -1,0 +1,9 @@
+D:\8thsem\ASE\FileParsing\FileParsing\bin\Debug\FileParsing.exe.config
+D:\8thsem\ASE\FileParsing\FileParsing\obj\Debug\FileParsing.csprojResolveAssemblyReference.cache
+D:\8thsem\ASE\FileParsing\FileParsing\obj\Debug\FileParsing.Properties.Resources.resources
+D:\8thsem\ASE\FileParsing\FileParsing\obj\Debug\FileParsing.csproj.GenerateResource.Cache
+D:\8thsem\ASE\FileParsing\FileParsing\bin\Debug\FileParsing.exe
+D:\8thsem\ASE\FileParsing\FileParsing\bin\Debug\FileParsing.pdb
+D:\8thsem\ASE\FileParsing\FileParsing\obj\Debug\FileParsing.exe
+D:\8thsem\ASE\FileParsing\FileParsing\obj\Debug\FileParsing.pdb
+D:\8thsem\ASE\FileParsing\FileParsing\obj\Debug\FileParsing.Form1.resources

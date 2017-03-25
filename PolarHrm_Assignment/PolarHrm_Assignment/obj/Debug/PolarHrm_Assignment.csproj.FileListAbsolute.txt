@@ -47,3 +47,6 @@ D:\8thsem\PolarHrmData_Assignment1\PolarHrm_Assignment\obj\Debug\PolarHrmData_As
 D:\8thsem\PolarHrmData_Assignment1\PolarHrm_Assignment\obj\Debug\PolarHrm_Assignment.csproj.GenerateResource.Cache
 D:\8thsem\PolarHrmData_Assignment1\PolarHrm_Assignment\obj\Debug\PolarHrmData_Assignment1.exe
 D:\8thsem\PolarHrmData_Assignment1\PolarHrm_Assignment\obj\Debug\PolarHrmData_Assignment1.pdb
+D:\8thsem\PolarHrm_Assignment\PolarHrm_Assignment\bin\Debug\PolarHrmData_Assignment1.exe.config
+D:\8thsem\PolarHrm_Assignment\PolarHrm_Assignment\obj\Debug\PolarHrmData_Assignment1.exe
+D:\8thsem\PolarHrm_Assignment\PolarHrm_Assignment\obj\Debug\PolarHrmData_Assignment1.pdb

@@ -77,7 +77,7 @@
             this.tabPage2.Margin = new System.Windows.Forms.Padding(2);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(2);
-            this.tabPage2.Size = new System.Drawing.Size(841, 409);
+            this.tabPage2.Size = new System.Drawing.Size(841, 436);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Details";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -86,7 +86,7 @@
             // label15
             // 
             this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(655, 350);
+            this.label15.Location = new System.Drawing.Point(655, 367);
             this.label15.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(41, 13);
@@ -96,7 +96,7 @@
             // label14
             // 
             this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(655, 306);
+            this.label14.Location = new System.Drawing.Point(655, 321);
             this.label14.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(41, 13);
@@ -106,7 +106,7 @@
             // label13
             // 
             this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(655, 265);
+            this.label13.Location = new System.Drawing.Point(655, 279);
             this.label13.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(41, 13);
@@ -116,7 +116,7 @@
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(655, 228);
+            this.label12.Location = new System.Drawing.Point(655, 239);
             this.label12.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(41, 13);
@@ -126,7 +126,7 @@
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(655, 191);
+            this.label11.Location = new System.Drawing.Point(655, 198);
             this.label11.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(41, 13);
@@ -142,6 +142,7 @@
             this.label10.Size = new System.Drawing.Size(41, 13);
             this.label10.TabIndex = 6;
             this.label10.Text = "label10";
+            this.label10.Click += new System.EventHandler(this.label10_Click);
             // 
             // label9
             // 
@@ -180,7 +181,7 @@
             this.ParseData.Margin = new System.Windows.Forms.Padding(2);
             this.ParseData.Name = "ParseData";
             this.ParseData.RowTemplate.Height = 28;
-            this.ParseData.Size = new System.Drawing.Size(641, 389);
+            this.ParseData.Size = new System.Drawing.Size(647, 415);
             this.ParseData.TabIndex = 2;
             this.ParseData.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.ParseData_CellContentClick_1);
             // 
@@ -193,7 +194,7 @@
             this.tabControl1.Margin = new System.Windows.Forms.Padding(2);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(849, 435);
+            this.tabControl1.Size = new System.Drawing.Size(849, 462);
             this.tabControl1.TabIndex = 8;
             // 
             // tabPage1
@@ -227,7 +228,7 @@
             // 
             // browseFile
             // 
-            this.browseFile.Location = new System.Drawing.Point(368, 86);
+            this.browseFile.Location = new System.Drawing.Point(364, 65);
             this.browseFile.Margin = new System.Windows.Forms.Padding(2);
             this.browseFile.Name = "browseFile";
             this.browseFile.Size = new System.Drawing.Size(115, 49);
@@ -297,13 +298,13 @@
             this.tabPage3.Location = new System.Drawing.Point(4, 22);
             this.tabPage3.Name = "tabPage3";
             this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage3.Size = new System.Drawing.Size(841, 409);
+            this.tabPage3.Size = new System.Drawing.Size(841, 436);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "Graph";
             // 
             // zedGraphControl1
             // 
-            this.zedGraphControl1.Location = new System.Drawing.Point(30, 6);
+            this.zedGraphControl1.Location = new System.Drawing.Point(6, 3);
             this.zedGraphControl1.Name = "zedGraphControl1";
             this.zedGraphControl1.ScrollGrace = 0D;
             this.zedGraphControl1.ScrollMaxX = 0D;
@@ -312,7 +313,7 @@
             this.zedGraphControl1.ScrollMinX = 0D;
             this.zedGraphControl1.ScrollMinY = 0D;
             this.zedGraphControl1.ScrollMinY2 = 0D;
-            this.zedGraphControl1.Size = new System.Drawing.Size(790, 379);
+            this.zedGraphControl1.Size = new System.Drawing.Size(832, 427);
             this.zedGraphControl1.TabIndex = 0;
             this.zedGraphControl1.UseExtendedPrintDialog = true;
             this.zedGraphControl1.Load += new System.EventHandler(this.zedGraphControl1_Load);

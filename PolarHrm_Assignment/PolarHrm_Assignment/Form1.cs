@@ -382,6 +382,11 @@ namespace PolarHrm_Assignment
 
         }
 
+        private void label10_Click(object sender, EventArgs e)
+        {
+
+        }
+
         //public List<hrdata> getHRDataList()
         //{
         //    return hr;
